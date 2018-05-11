@@ -1,0 +1,18 @@
+This code solves a Maze task provided as part 
+of a technical test
+
+Author: George O
+
+Comments:
+	Assumes no Validation is Required, including blank files etc (As stated in the brief).
+	Does not pick an optimized path through the "sparse" test.
+	Assumes only one solution is required. The brief is a bit ambiguous on this point.
+	  (Do mazes only ever have one available solution? do I need to find every possible solution?)
+	  I concluded only one solution from the wording.
+
+Instructions:
+	Requires JDK and for the Java System Path Variable to be set in order to Run!
+
+	Test Files located in MazeTest/build/res Folder (They must be here)
+	Edit the value of the "file" variable in run.bat with the .txt file you wish to run (currently set to medium_input.txt)
+	Double click on run.bat
